@@ -1,6 +1,6 @@
 {
-  "name": "云韶",
-  "url": "https://zihang.fun",
+  "name": "我的锻造应用",
+  "url": "https://example.com",
   "bundleId": "com.forge.myapp",
   "version": "1.0.0",
   "targets": [
@@ -11,12 +11,12 @@
     "linux"
   ],
   "shell": "capacitor",
-  "accent": "#f6e05e",
+  "accent": "#c6ff3a",
   "window": {
     "width": 1280,
     "height": 800
   },
   "offline": true,
   "autoUpdate": true,
-  "generatedAt": "2026-06-30T10:38:23.906Z"
+  "generatedAt": "2026-06-30T10:51:59.331Z"
 }
