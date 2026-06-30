@@ -1,0 +1,22 @@
+{
+  "name": "我的锻造应用",
+  "url": "https://example.com",
+  "bundleId": "com.forge.myapp",
+  "version": "1.0.0",
+  "targets": [
+    "ios",
+    "android",
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "shell": "capacitor",
+  "accent": "#c6ff3a",
+  "window": {
+    "width": 1280,
+    "height": 800
+  },
+  "offline": true,
+  "autoUpdate": true,
+  "generatedAt": "2026-06-30T10:37:49.226Z"
+}
